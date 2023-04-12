@@ -24,3 +24,6 @@ solving binary classification problem to detect
 sentiment of scam
 2. We will experiment with various NLP based
 techniques to establish
+
+
+Full paper would be soon published
